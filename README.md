@@ -20,14 +20,12 @@ To use the Omifood static web page, follow the steps below:
 
 1\. Clone the project repository from GitHub to your local machine. Open your terminal or command prompt and navigate to the directory where you want to clone the project.
 ```bash
-Copy code
 git clone https://github.com/your-username/omifood.git 
 ```
 Replace your-username with your GitHub username.
 
 2\. Once the cloning process is complete, navigate to the project's directory:
 ```bash
-Copy code
 cd omifood
 ```
 3\. Open the index.html file in a web browser. You can do this by either double-clicking the file and it will open in your default browser, or you can right-click the file and choose an option like "Open with" to select a specific browser.
